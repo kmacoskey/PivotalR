@@ -1,4 +1,4 @@
-PivotalR
+(Archived) PivotalR
 =======
 
 PivotalR is a package that enables users of R, the most popular open source statistical programming language
